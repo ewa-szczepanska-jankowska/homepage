@@ -22,7 +22,7 @@
         color: rgb(44, 44, 44);
     }
     .top {
-        color: aqua;background:yellow
+        color: rgb(34, 104, 104); background:#eed0d0;
     }
     .zakladka
 {
@@ -32,7 +32,7 @@
 color:#dd2e2e
    }
    .main_navigations_link{
-       color:yellow
+       color:rgb(59, 59, 58)
    }
    .link{
        color:red; background:orange
