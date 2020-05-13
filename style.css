@@ -1,0 +1,46 @@
+
+    body {
+        background:#ffffff;
+    
+    }
+    section {
+        color:pink
+    }
+    h1 {
+        color:#353434;
+    }
+    h2 {
+        color:#807e7e;
+    }
+    h3 {
+        color:#b9b8b8;
+    }
+    p { 
+        color:rgb(136, 136, 136)
+    }
+    footer {
+        color: rgb(44, 44, 44);
+    }
+    .top {
+        color: aqua;background:yellow
+    }
+    .zakladka
+{
+        color:#ee94c6; background:blue
+    }
+  .botton{
+color:#dd2e2e
+   }
+   .main_navigations_link{
+       color:yellow
+   }
+   .link{
+       color:red; background:orange
+   }
+   .link_week_nr{
+       color:pink; background:green
+   }
+   .nauka_top
+   {
+       color:black; background:pink
+   }
